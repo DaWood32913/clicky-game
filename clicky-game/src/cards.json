@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Cardinals",
+        "images": "https://i.pinimg.com/564x/a8/f5/71/a8f57159af35cb1c4aa4854c57b44083.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bears",
+        "images": "https://i.pinimg.com/564x/26/f1/67/26f16706b395379ae7ab9f9cec93c754.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Packers",
+        "images": "https://www.desktopbackground.org/download/o/2012/05/18/391886_green-bay-packers-logo-wallpapers-182692_1920x1200_h.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Giants",
+        "images": "http://pick6.com.br/wp-content/uploads/2013/11/Logo-New-York-Giants.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lions",
+        "images": "http://clipart-library.com/clipart/412896.htm"
+    },
+    {
+        "id": 6,
+        "name": "Redskins",
+        "images": "https://vignette.wikia.nocookie.net/prosportsteams/images/1/19/Washington_Redskins.jpg/revision/latest?cb=20120912141725"
+    },
+    {
+        "id": 7,
+        "name": "Steelers",
+        "images": "https://pbs.twimg.com/profile_images/918521583668428800/ocmAk3w4.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Eagles",
+        "images": "https://i.pinimg.com/564x/0b/8e/4d/0b8e4ddf5e023d9497b94f28f6117f5b.jpg"
+    }
+]
