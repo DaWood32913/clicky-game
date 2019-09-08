@@ -9,6 +9,12 @@
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     overflow: hidden;
   }
+
+  img {
+      height: 240px;
+      width: 270px;
+      position: absolute;
+  }
   
   /* Slide */
    .hover img {

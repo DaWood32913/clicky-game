@@ -60,7 +60,8 @@ class App extends Component {
               shuffleScoreCard={this.shuffleScoreCard}
               id={Team.id}
               key={Team.id}
-              image={Team.image}
+              name={Team.name}
+              images={Team.images}
             />
           ))}
         </Wrapper>
