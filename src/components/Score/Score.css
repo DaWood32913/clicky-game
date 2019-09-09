@@ -11,6 +11,8 @@
     margin-top: 5px;
     padding: 0;
     font-weight: 600;
+    color: red;
+    text-shadow: 2px 2px black;
   }
   h3.status{
     margin: 0;
