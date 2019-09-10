@@ -26,7 +26,7 @@ class App extends Component {
       clickedTeamIds.push(id)
 
       if(clickedTeamIds.length === 8){
-        this.setState({score: 8, status: "You Won! Great Job, Smartie! Click to play again!", clickedTeamIds: []});
+        this.setState({score: 8, status: "Touchdown! Click to play again!", clickedTeamIds: []});
         console.log('You Win');
         return;
       }
